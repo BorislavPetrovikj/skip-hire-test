@@ -54,12 +54,14 @@ Skip options are dynamically loaded from:
 
 ## Submission
 
-- **GitHub repository**: [Your public repo link here]
-- **Live demo / sandbox**: [Your deployed or sandbox link here]
+- **GitHub repository**: [https://github.com/BorislavPetrovikj/skip-hire-test](https://github.com/BorislavPetrovikj/skip-hire-test)
+- **Live demo**: [https://borislavpetrovikj.github.io/skip-hire-test](https://borislavpetrovikj.github.io/skip-hire-test)
 
 ## Contact
 
-For any questions, please contact me via [your email or LinkedIn].
+For any questions, please contact me via:
+- Email: [petrovicborko392@gmail.com](mailto:petrovicborko392@gmail.com)
+- LinkedIn: [Borislav Petrovic](https://www.linkedin.com/in/borislavpetrovic/)
 
 ---
 
