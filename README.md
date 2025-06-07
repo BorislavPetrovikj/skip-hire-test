@@ -56,6 +56,7 @@ Skip options are dynamically loaded from:
 
 - **GitHub repository**: [https://github.com/BorislavPetrovikj/skip-hire-test](https://github.com/BorislavPetrovikj/skip-hire-test)
 - **Live demo**: [https://borislavpetrovikj.github.io/skip-hire-test](https://borislavpetrovikj.github.io/skip-hire-test)
+- **CodeSandbox**: [https://codesandbox.io/p/github/BorislavPetrovikj/skip-hire-test/draft/reverent-field](https://codesandbox.io/p/github/BorislavPetrovikj/skip-hire-test/draft/reverent-field)
 
 ## Contact
 
