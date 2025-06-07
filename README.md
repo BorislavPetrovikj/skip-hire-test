@@ -16,8 +16,8 @@ This project is a complete redesign of the "Choose Your Skip Size" page for [WeW
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
-   cd skip-size-redesign
+   git clone https://github.com/BorislavPetrovikj/skip-hire-test.git
+   cd skip-hire-test
    ```
 
 2. **Install dependencies:**
